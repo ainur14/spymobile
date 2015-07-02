@@ -1,0 +1,1 @@
+Spy (call, sms, gps) for Symbian, iOS, Android and Windows Mobile platforms.
